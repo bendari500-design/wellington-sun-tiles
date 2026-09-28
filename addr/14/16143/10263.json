@@ -1,0 +1,1 @@
+{"v":1,"cols":["id","lat","lon","address","garden","roof","wv","water"],"fields":["total","am","pm","jun","dec"],"a":[[2313342,-41.362197,174.716337,"550 Owhiro Bay Parade, Ōwhiro Bay, Wellington",[10.45,4.88,5.57,2.24,14.99],null,1,[241,6,"SW",241]]],"water_fields":["view_width_deg","nearest_visible_water_m","bearing","sea_width_deg"]}

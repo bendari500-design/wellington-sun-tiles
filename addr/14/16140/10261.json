@@ -1,0 +1,1 @@
+{"v":1,"cols":["id","lat","lon","address","garden","roof","wv","water"],"fields":["total","am","pm","jun","dec"],"a":[[2313379,-41.33234,174.655733,"900B South Makara Road, Mākara, Wellington",[9.94,3.96,5.97,6.97,12.38],null,1,[131,89,"SW",131]]],"water_fields":["view_width_deg","nearest_visible_water_m","bearing","sea_width_deg"]}

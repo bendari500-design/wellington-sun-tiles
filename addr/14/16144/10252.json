@@ -1,0 +1,1 @@
+{"v":1,"cols":["id","lat","lon","address","garden","roof","wv","water"],"fields":["total","am","pm","jun","dec"],"a":[[1616935,-41.188049,174.745773,"315 Boom Rock Road, Ohariu, Wellington",[6.57,4.39,2.18,2.32,10.48],null,0,null]],"water_fields":["view_width_deg","nearest_visible_water_m","bearing","sea_width_deg"]}

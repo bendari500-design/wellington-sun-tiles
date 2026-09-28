@@ -1,0 +1,1 @@
+{"v":1,"cols":["id","lat","lon","address","garden","roof","wv","water"],"fields":["total","am","pm","jun","dec"],"a":[[1392899,-41.102917,175.211172,"2239 State Highway 2, Remutaka Hill, Upper Hutt",[9.63,4.9,4.73,7.28,12.09],null,0,null]],"water_fields":["view_width_deg","nearest_visible_water_m","bearing","sea_width_deg"]}

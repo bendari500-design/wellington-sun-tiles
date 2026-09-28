@@ -1,0 +1,1 @@
+{"v":1,"cols":["id","lat","lon","address","garden","roof","wv","water"],"fields":["total","am","pm","jun","dec"],"a":[[493089,-41.081621,175.211436,"68B Marchant Road, Kaitoke, Upper Hutt",[10.56,5.35,5.21,8.18,12.71],null,0,null]],"water_fields":["view_width_deg","nearest_visible_water_m","bearing","sea_width_deg"]}

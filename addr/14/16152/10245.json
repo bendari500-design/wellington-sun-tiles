@@ -1,0 +1,1 @@
+{"v":1,"cols":["id","lat","lon","address","garden","roof","wv","water"],"fields":["total","am","pm","jun","dec"],"a":[[2392917,-41.079305,174.92377,"329E Paekakariki Hill Road, Paekākāriki Hill, Porirua",[1.05,0.0,1.05,0.0,1.52],null,0,null]],"water_fields":["view_width_deg","nearest_visible_water_m","bearing","sea_width_deg"]}

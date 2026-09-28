@@ -1,0 +1,1 @@
+{"v":1,"cols":["id","lat","lon","address","garden","roof","wv","water"],"fields":["total","am","pm","jun","dec"],"a":[[1415074,-41.204381,174.742588,"142A Takarau Gorge Road, Ohariu, Wellington",[8.87,5.5,3.37,5.24,12.14],null,0,null]],"water_fields":["view_width_deg","nearest_visible_water_m","bearing","sea_width_deg"]}

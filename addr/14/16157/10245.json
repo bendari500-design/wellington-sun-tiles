@@ -1,0 +1,1 @@
+{"v":1,"cols":["id","lat","lon","address","garden","roof","wv","water"],"fields":["total","am","pm","jun","dec"],"a":[[455004,-41.077402,175.012336,"217A Bulls Run Road, Moonshine Valley, Upper Hutt",[4.94,2.03,2.91,0.0,8.51],[6.15,3.27,2.88,2.17,10.0],0,null]],"water_fields":["view_width_deg","nearest_visible_water_m","bearing","sea_width_deg"]}

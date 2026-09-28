@@ -1,0 +1,1 @@
+{"v":1,"cols":["id","lat","lon","address","garden","roof","wv","water"],"fields":["total","am","pm","jun","dec"],"a":[[1935880,-41.090847,175.039698,"320 Goat Hill Road, Craigs Flat, Upper Hutt",[10.4,4.86,5.54,7.74,13.06],[9.62,4.1,5.52,7.44,11.28],0,null]],"water_fields":["view_width_deg","nearest_visible_water_m","bearing","sea_width_deg"]}

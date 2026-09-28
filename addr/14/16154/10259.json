@@ -1,0 +1,1 @@
+{"v":1,"cols":["id","lat","lon","address","garden","roof","wv","water"],"fields":["total","am","pm","jun","dec"],"a":[[436256,-41.294838,174.947637,"206 Coast Road, Wainuiomata, Lower Hutt",[6.46,2.18,4.28,4.33,8.15],[8.5,3.99,4.51,4.35,12.09],0,null]],"water_fields":["view_width_deg","nearest_visible_water_m","bearing","sea_width_deg"]}

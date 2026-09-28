@@ -1,0 +1,88 @@
+{
+ "v": 1,
+ "generated": "2026-09-27 23:19 PDT",
+ "n_addresses": 192437,
+ "bounds": [
+  [
+   -41.42415960482112,
+   174.62498068968793
+  ],
+  [
+   -40.97140064382157,
+   175.2482997707233
+  ]
+ ],
+ "tiles": "tiles/{layer}/{z}/{x}/{y}.webp",
+ "minNativeZoom": 11,
+ "maxNativeZoom": 16,
+ "addr_z": 14,
+ "layers": [
+  {
+   "key": "total",
+   "label": "Day (year avg)",
+   "vmax": 12
+  },
+  {
+   "key": "am",
+   "label": "Morning (sunrise-solar noon)",
+   "vmax": 6
+  },
+  {
+   "key": "pm",
+   "label": "Afternoon (solar noon-sunset)",
+   "vmax": 6
+  },
+  {
+   "key": "jun",
+   "label": "June (winter) avg",
+   "vmax": 9
+  },
+  {
+   "key": "dec",
+   "label": "December (summer) avg",
+   "vmax": 15
+  }
+ ],
+ "ramp": [
+  "#0b0b2a",
+  "#3b2b63",
+  "#8c3f73",
+  "#d9633f",
+  "#f5b93a",
+  "#fff6a8"
+ ],
+ "levels": 64,
+ "possible": {
+  "total": 12.06,
+  "am": 6.03,
+  "pm": 6.03,
+  "jun": 9.19,
+  "dec": 15.03
+ },
+ "resolution_m": 2,
+ "mask_m": 150,
+ "grid_nztm": [
+  1736704,
+  5412864,
+  1787904,
+  5462016
+ ],
+ "sources": [
+  "LINZ LiDAR 1m DSM/DEM: Wellington City 2025, Hutt City 2025, Upper Hutt City 2025, Porirua 2023, Kapiti Coast 2024-25, Wellington 2013-14 (gap fill), CC BY 4.0",
+  "LINZ NZ Addresses, NZ Building Outlines, NZ Suburbs and Localities, CC BY 4.0"
+ ],
+ "water": {
+  "file": "water.json",
+  "n": 55279,
+  "pct": 28.7,
+  "min_deg": 5,
+  "generated": "2026-09-28 00:26 PDT",
+  "fields": [
+   "view_width_deg",
+   "nearest_visible_water_m",
+   "bearing",
+   "sea_width_deg"
+  ],
+  "method": "360 x 1 deg rays to 15 km over the LiDAR DSM from roof + 1.5 m (or ground + 4.5 m) at the address point; water = sea/harbour (LINZ MHWS coastline) + lakes/reservoirs >= 0.5 ha"
+ }
+}

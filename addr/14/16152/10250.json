@@ -1,0 +1,1 @@
+{"v":1,"cols":["id","lat","lon","address","garden","roof","wv","water"],"fields":["total","am","pm","jun","dec"],"a":[[2176286,-41.153494,174.907845,"380 Normandale Road, Belmont, Lower Hutt",[11.77,5.82,5.95,8.74,14.76],null,1,[7,5864,"N",7]]],"water_fields":["view_width_deg","nearest_visible_water_m","bearing","sea_width_deg"]}

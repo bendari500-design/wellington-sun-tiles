@@ -1,0 +1,1 @@
+{"v":1,"cols":["id","lat","lon","address","garden","roof","wv","water"],"fields":["total","am","pm","jun","dec"],"a":[[1545381,-41.258738,174.746768,"498 Parkvale Road, Mākara, Wellington",[7.14,4.29,2.85,4.36,9.91],null,1,[7,9376,"SE",7]]],"water_fields":["view_width_deg","nearest_visible_water_m","bearing","sea_width_deg"]}
